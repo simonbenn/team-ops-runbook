@@ -3,7 +3,7 @@
 A collaborative runbook for IT operations procedures, troubleshooting guides, and checklists.
 
 ## Team Members
-- Simon / Nick / Lino / Craig (networks) / Anton
+- Simon / Nick / Lino (Networks) / Craig (networks) / Anton
 
 ## Structure
 
